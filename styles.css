@@ -1,0 +1,150 @@
+body{
+    background-color: gray;
+}
+.cards{
+    width: 320px;
+    background-color: white;
+    height: 120px;
+    border: solid red;
+    border-radius: 15px;
+    border-width: 5px;
+    position: relative;
+    left: 450px;
+    box-shadow: 5px 5px purple;
+}
+.welcome{
+    font-size: 20px;
+    font-style: italic;
+    line-height: 25px;
+    font-weight: bolder;
+    color: purple;
+    text-shadow: 1px 2px 2px purple;
+}
+.cards1{
+    width: 200px;
+    background-color: white;
+    height: 200px;
+    border: solid red;
+    border-radius: 15px;
+    border-width: 5px;
+    position: relative;
+    display: inline-block;
+    top: 20px;
+    left: 10px;
+    box-shadow: 5px 5px purple;
+}
+.address{
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    text-shadow: 1px 2px 2px purple;
+}
+.image{
+    position: relative;
+    top: 40px;
+}
+#rateusone{
+    font-size: 20px;
+    padding-left: 10px;
+    line-height: 25px;
+    font-weight: bolder;
+    color: purple;
+    text-shadow: 1px 2px 2px purple;
+}
+#rateustwo{
+    font-size: 14px;
+    font-weight: bolder;
+    color: purple;
+    text-shadow: 1px 2px 2px purple;
+}
+#submit{
+    font-size: 14px;
+    font-weight: bolder;
+    color: purple;
+    text-shadow: 1px 2px 2px purple;
+}
+#button{
+    background-color: red;
+    border-radius: 10px;
+    border-width: 0px;
+    box-shadow: 1px 2px 2px purple;
+
+}
+.banner{
+    position: fixed;
+    left: 400px;
+    top: 400px;
+    width: 450px;
+    height: 100px;
+    background-color:chartreuse;
+    border: solid 5px red;
+    border-radius: 15px;
+    display: inline-block;
+    box-shadow: 5px 5px purple;
+}
+#offer{
+    font-size: 22px;
+    font-style: italic;
+    color: red;
+    font-weight: bold;
+    width: 200px;
+    padding-left: 20px;
+    text-align: center;
+}
+#discount{
+    font-size: 18px;
+    font-style: italic;
+    color: red;
+    font-weight: bold;
+    width: 150px;
+    text-align: center;
+    position: relative;
+    left: 250px;
+    top: -60px;
+}
+.welcome2{
+    width: 650px;
+    height: 600px;
+    border: solid 10px purple;
+    background-color: green;
+    position: relative;
+    top: 50px;
+    left: 280px;
+    text-align: center;
+    padding: 5px;
+}
+.fruits{
+    width: 300px;
+    background-color:khaki;
+    padding: 10px;
+    display: inline-block;
+}
+.heading{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+}
+.des{
+    line-height: 30px;
+    font-style: italic;
+    font-size: 16px;
+    font-size: 14px;
+}
+.otheritems{
+    width: 640px;
+    background-color: khaki;
+    padding: 10px;
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+.other{
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+}
+.items{
+    line-height: 30px;
+    font-style: italic;
+    font-size: 14px;
+}
